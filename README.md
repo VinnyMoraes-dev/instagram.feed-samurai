@@ -7,6 +7,8 @@ As tecnologias utilizadas foram HTML5, CSS3 e o Framework Bootstrap.
 
 Link: https://vinnymoraes-dev.github.io/instagram.feed-samurai/
 
+![instagram-samurai00](https://user-images.githubusercontent.com/56524332/191492468-79d4fdf4-6c30-4053-8b5e-2a688f5d3947.JPG)
+
 ![instagram-samurai](https://user-images.githubusercontent.com/56524332/191491708-9313c535-0277-4459-9c97-b626b738c851.JPG)
 
 ![instagram-samurai02](https://user-images.githubusercontent.com/56524332/191491715-ff3b9030-ba94-45a4-baed-3a6ec58cabdd.JPG)
