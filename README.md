@@ -15,7 +15,11 @@ Link: https://vinnymoraes-dev.github.io/instagram.feed-samurai/
 
 ![instagram-samurai04](https://user-images.githubusercontent.com/56524332/191491736-26258124-2b9a-419f-9f8e-2c07f50336a9.JPG)
 
-![instagram-samurai05](https://user-images.githubusercontent.com/56524332/191491752-ee45b35e-258d-4ab6-b56d-41fe68e79d37.JPG)
+![instagram-samurai05](https://user-images.githubusercontent.com/56524332/191492143-e5b3dc9b-1a7a-44c8-ac84-1c5d3190ecee.JPG)
 
-![instagram-samurai06](https://user-images.githubusercontent.com/56524332/191491764-30ed7ef5-eddc-45a0-8a58-6976eb21bed3.JPG)
+![instagram-samurai06](https://user-images.githubusercontent.com/56524332/191492163-80e35c3c-2df3-41be-af52-b3eed9483730.JPG)
+
+![instagram-samurai07](https://user-images.githubusercontent.com/56524332/191492177-9ac62c70-3ff4-475c-86e2-7fa8588bd3f2.JPG)
+
+![instagram-samurai08](https://user-images.githubusercontent.com/56524332/191492189-d71ff076-1caf-4e0b-b0b0-80669cd06ae1.JPG)
 
